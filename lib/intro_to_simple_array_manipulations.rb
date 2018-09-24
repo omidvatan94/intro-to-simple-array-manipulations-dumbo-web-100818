@@ -43,4 +43,5 @@ def using_delete(instructors, str)
   instructors.delete(str)
 end
 
-
+def using_delete_at(famous_robots, int)
+  famous_robots
